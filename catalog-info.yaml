@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "backstage-test"
+  description: "A sample documentation on technical documentation"
+  annotations:
+    github.com/project-slug: venkataramkishore/https://github.com/venkataramkishore/backstage-test
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "venkataramkishore"

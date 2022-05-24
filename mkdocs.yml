@@ -1,0 +1,8 @@
+site_name: "backstage-test"
+site_description: "A sample documentation on technical documentation"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
