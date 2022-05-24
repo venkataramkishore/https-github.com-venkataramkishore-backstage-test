@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: venkataramkishore/https://github.com/venkataramkishore/backstage-test
     backstage.io/techdocs-ref: venkataramkishore/https://github.com/venkataramkishore/backstage-test
+    backstage.io/view-url: http://google.com
 spec:
   type: documentation
   lifecycle: experimental
