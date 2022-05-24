@@ -5,7 +5,7 @@ metadata:
   description: "A sample documentation on technical documentation"
   annotations:
     github.com/project-slug: venkataramkishore/https://github.com/venkataramkishore/backstage-test
-    backstage.io/techdocs-ref: dir:.
+    backstage.io/techdocs-ref: docs:.
 spec:
   type: documentation
   lifecycle: experimental
