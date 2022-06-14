@@ -8,6 +8,7 @@ metadata:
     backstage.io/techdocs-ref: venkataramkishore/https://github.com/venkataramkishore/backstage-test
     backstage.io/view-url: http://google.com
 spec:
-  type: documentation
-  lifecycle: experimental
-  owner: "venkataramkishore"
+  type: Library
+  system: test-app
+  lifecycle: development
+  owner: venkataramkishore
