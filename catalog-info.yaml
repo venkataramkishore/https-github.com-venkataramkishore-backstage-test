@@ -11,4 +11,4 @@ spec:
   type: Library
   system: test-app
   lifecycle: development
-  owner: venkataramkishore
+  owner: app-users
